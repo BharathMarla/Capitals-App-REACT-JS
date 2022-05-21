@@ -1,0 +1,30 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #93c5fd;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.card-container {
+  background-color: #f8fafc;
+  padding: 10px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  font-family: 'Roboto';
+  font-size: 24px;
+}
+.question-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.question {
+  margin-left: 5px;
+}
